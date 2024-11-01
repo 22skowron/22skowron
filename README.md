@@ -15,7 +15,7 @@ I am actively looking for internship opportunities in the field of Machine Learn
 
 ## Technologies & Skills
 Here are some of the technologies and programming languages I am familiar with:
-- **Languages**: Python, JavaScript, TypeScript, R, MATLAB
+- **Languages**: Python, JavaScript, TypeScript, R, MATLAB, SQL
 - **Web Development**: Angular, HTML, CSS, SASS
 - **Design Tools**: Figma, Photoshop
 
